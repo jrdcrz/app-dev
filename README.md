@@ -1,12 +1,13 @@
 # H1 Here is my favourite series
-- Good Doctor
-- Money Heist
-- Better Call Saul
-- Shooter
-- Suits
-- Picky Blinder
+
+- [x]*Good Doctor*
+- [x]*Money Heist*
+- []Better Call Saul
+- [x]**Shooter**
+- [x]Suits
+- ~~Picky Blinder
 
 # H1 Here is my favourite movies
-- Straight outa Crompton
-- 13 Hours
-- Snipper
+- [x]Straight outa Crompton
+- [x]13 Hours
+- [x]Snipper
